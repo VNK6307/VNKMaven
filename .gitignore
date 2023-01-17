@@ -1,5 +1,8 @@
 .idea
 /out
 *.iml
-/src
-/target
+/src/
+/target/
+/api/target/
+/db/target/
+/service/target/
